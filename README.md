@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ I've Taking part in Le Wagon London Web Development Bootcamp in 2022 - which was a thrill! ✨
+✨ I've taken part in Le Wagon London Web Development Bootcamp in 2022 - a thrill! ✨
 Now I am keen to further hone the skills I have learnt in my free time 👯 as well as using them to help companies to digitize at speed and scale 👀
 I am also interested in how tech can be an enabler for sustainable development 🌱 as well as mitigating potential adverse effects it may have or already has 🔭
 
