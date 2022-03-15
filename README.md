@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+✨ I've Taking part in Le Wagon London Web Development Bootcamp in 2022 - which was a thrill! ✨
+Now I am keen to further hone the skills I have learnt in my free time 👯 as well as using them to help companies to digitize at speed and scale 👀
+I am also interested in how tech can be an enabler for sustainable development 🌱 as well as mitigating potential adverse effects it may have or already has 🔭
+
 <!--
-**89coco/89coco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**89coco/89coco** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
